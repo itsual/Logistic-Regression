@@ -1,2 +1,2 @@
-# Logistic-Regerssion
+# Logistic-Regression
 Telecom Customer Churn Prediction
